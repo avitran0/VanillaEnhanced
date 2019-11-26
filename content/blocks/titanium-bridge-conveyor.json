@@ -4,9 +4,9 @@
     "description": "A better Bridge Conveyor",
     "health": 250,
     "requirements": [
-        {"item": "lead", "amount": "4"},
-        {"item": "copper", "amount": "4"},
-        {"item": "titanium", "amount": "4"}
+        {"item": "lead", "amount": 4},
+        {"item": "copper", "amount": 4},
+        {"item": "titanium", "amount": 4}
     ],
     "range": 8,
     "transportTime": 4,
