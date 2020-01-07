@@ -12,7 +12,7 @@
     "size": 4,
     "itemCapacity": 250,
     "reloadTime": 120,
-    "range": 800,
+    "range": 650,
     "consumes": {"power": 2.5},
     "category": "distribution",
     "research": "mass-driver"
