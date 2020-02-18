@@ -3,7 +3,7 @@
 	"description": "Transform into the Revenant mech.",
 	"type": "MechPad",
 	"mech": "revenant-mech",
-	"size": 2,
+	"size": 3,
 	"consumes": {
 		"power": 0.7
 	},

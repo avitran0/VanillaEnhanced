@@ -3,7 +3,7 @@
 	"description": "Transform into the Reaper mech.",
 	"type": "MechPad",
 	"mech": "reaper-mech",
-	"size": 2,
+	"size": 3,
 	"consumes": {
 		"power": 0.7
 	},

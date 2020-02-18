@@ -3,8 +3,8 @@
 	"description": "Makes goddamn Reapers.",
 	"type": "UnitFactory",
 	"unitType": "reaper",
-	"size": 2,
-	"maxSpawn": 100,
+	"size": 4,
+	"maxSpawn": 1,
 	"produceTime": 5000,
 	"consumes": {
 		"power": 0.5,
