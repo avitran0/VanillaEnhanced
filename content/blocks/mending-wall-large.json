@@ -1,6 +1,6 @@
 {
 	"name": "Large Mending Wall",
-	"description": "A wall block capabe of repairing blocks next to it, making it useful in conjunction with other walls. Spans multiple tiles.",
+	"description": "A Wall that acts like a Mend Projector, needs Power. Spans multiple tiles.",
 	"type": "MendProjector",
 	"health": 3000,
 	"size": 2,
@@ -18,5 +18,5 @@
 		{ "item": "surge-alloy", "amount": 12 }
 	],
 	"category": "defense",
-	"research": "mender-wall"
+	"research": "mending-wall"
 }

@@ -1,6 +1,6 @@
 {
 	"name": "Mending Wall",
-	"description": "A wall block capabe of repairing blocks next to it, making it useful in a conjunction with other walls.",
+	"description": "A Wall that acts like a Mender, needs Power",
 	"type": "MendProjector",
 	"health": 750,
 	"size": 1,
@@ -18,5 +18,5 @@
 		{ "item": "surge-alloy", "amount": 3 }
 	],
 	"category": "defense",
-	"research": "power-wall"
+	"research": "surge-wall"
 }
