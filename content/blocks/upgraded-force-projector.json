@@ -7,7 +7,7 @@
     "speedBoost": 2,
     "phaseRangeBoost": 100,
     "speedBoostPhase": 1,
-    "breakage": 1000,
+    "breakage": 50,
     "cooldownNormal": 1.2,
     "cooldownLiquid": 1,
     "category": "effect",
