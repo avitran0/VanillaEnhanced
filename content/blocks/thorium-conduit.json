@@ -9,7 +9,15 @@
 		{"item": "thorium", "amount": 2}
 	],
 	"category": "liquid",
+	"hasLiquids": true,
+	"outputsLiquit": true,
+	"update": true,
+	"rotate": true,
+	"solid": false,
+	"group": "liquids",
+	"floating": true,
     "liquidCapacity": 24,
-    "liquidPressure": 1.075,
+	"liquidPressure": 1.075,
+	"speed": 0.2,
 	"research": "pulse-conduit"
 }
