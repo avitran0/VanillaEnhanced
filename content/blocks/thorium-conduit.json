@@ -1,0 +1,15 @@
+{
+	"type": "Pulse-Conduit",
+	"name": "Thorium Conduit",
+	"description": "A faster conduit, for all your watery needs",
+	"health": 120,
+	"requirements": [
+		{"item": "metaglass", "amount": 2},
+		{"item": "titanium", "amount": 2},
+		{"item": "thorium", "amount": 2}
+	],
+	"category": "liquid",
+    "liquidCapacity": 24,
+    "liquidPressure": 1.075,
+	"research": "thorium-conveyor"
+}
