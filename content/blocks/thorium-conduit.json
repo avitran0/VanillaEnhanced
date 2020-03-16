@@ -1,5 +1,5 @@
 {
-	"type": "Pulse-Conduit",
+	"type": "Conduit",
 	"name": "Thorium Conduit",
 	"description": "A faster conduit, for all your watery needs",
 	"health": 120,
