@@ -11,5 +11,5 @@
 	"category": "liquid",
     "liquidCapacity": 24,
     "liquidPressure": 1.075,
-	"research": "thorium-conveyor"
+	"research": "pulse-conduit"
 }
