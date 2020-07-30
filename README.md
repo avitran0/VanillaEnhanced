@@ -14,8 +14,7 @@ This mod adds a few things to enhance the Vanilla experience.
 - An Arc turret, but for air defense
 
 **More Features (planned):**
-- Still in work, will stick to the Vanilla experience.
-- Spritework will remain in the mindustry-style
+
 - More transport features (e.g. conveyors)
 - Different weapons, mechs
 
