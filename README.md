@@ -3,6 +3,8 @@
 This mod adds a few things to enhance the Vanilla experience.  
 *Still in development*
 
+# WILL BE UPDATED FOR V6
+
 **Content:**
 
 - Revenant, Eradicator and Reaper Mechs and a Reaper factory
