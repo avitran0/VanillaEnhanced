@@ -7,8 +7,7 @@ This mod adds a few things to enhance the Vanilla experience.
 
 **Content:**
 
-- Revenant, Eradicator and Reaper Mechs and a Reaper factory
-- Thorium, Plastanium and Surge Alloy Conveyors, Titanium Bridge Conveyor
+- Thorium and Surge Alloy Conveyors, Titanium Bridge Conveyor
 - A larger Battery
 - Titanium Drill (can mine every ore, but is slow)
 - Upgraded Force & Overdrive Projectors
