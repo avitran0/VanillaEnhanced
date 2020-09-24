@@ -2,5 +2,6 @@
   "name": "Vanilla Enhanced",
   "author": "HolyHades",
   "description": "Adds a few things that enhance the vanilla experience.",
-  "version": 1.6
+  "version": 1.6,
+  "minGameVersion": 105
 }
