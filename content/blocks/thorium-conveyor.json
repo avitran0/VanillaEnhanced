@@ -11,5 +11,6 @@
 	],
 	"category": "distribution",
 	"speed": 0.24,
+	"displayedSpeed": 33.6,
 	"research": "titanium-conveyor"
 }

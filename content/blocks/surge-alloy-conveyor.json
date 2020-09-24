@@ -11,5 +11,6 @@
 	],
 	"category": "distribution",
 	"speed": 0.30,
+	"displayedSpeed": 42,
 	"research": "thorium-conveyor"
 }

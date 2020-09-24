@@ -13,9 +13,9 @@
 	"BlockGroup": "walls",
 	"phaseBoost": 0,
 	"requirements": [
-		{ "item": "titanium", "amount": 6 },
+		{ "item": "surge-alloy", "amount": 6 },
 		{ "item": "silicon", "amount": 3 },
-		{ "item": "surge-alloy", "amount": 3 }
+		{ "item": "titanium", "amount": 3 }
 	],
 	"category": "defense",
 	"research": "surge-wall"

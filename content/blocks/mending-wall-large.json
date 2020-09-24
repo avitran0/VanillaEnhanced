@@ -13,9 +13,9 @@
 	"phaseBoost": 0,
 	"BlockGroup": "walls",
 	"requirements": [
-		{ "item": "titanium", "amount": 24 },
+		{ "item": "surge-alloy", "amount": 24 },
 		{ "item": "silicon", "amount": 12 },
-		{ "item": "surge-alloy", "amount": 12 }
+		{ "item": "titanium", "amount": 12 }
 	],
 	"category": "defense",
 	"research": "mending-wall"

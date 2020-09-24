@@ -4,7 +4,7 @@
     "size": 3,
     "health": 500,
     "radius": 150,
-    "speedBoost": 2,
+    "speedBoost": 2.5,
     "phaseRangeBoost": 100,
     "speedBoostPhase": 1,
     "breakage": 50,

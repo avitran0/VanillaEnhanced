@@ -3,7 +3,7 @@
 This mod adds a few things to enhance the Vanilla experience.  
 *Still in development*
 
-## WILL BE UPDATED FOR V6
+## V6.0 is done
 
 **Content:**
 
@@ -20,4 +20,4 @@ This mod adds a few things to enhance the Vanilla experience.
 - More transport features (e.g. conveyors)
 - Different weapons, mechs
 
-> **Made by HolyHades, v1nce.**
+> **Made by HolyHades and v1nce.**
