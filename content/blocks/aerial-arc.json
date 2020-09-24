@@ -7,7 +7,7 @@
     "size": 1,
     "reload": 35,
     "shootCone": 40,
-    "shootType": "arc",
+    "shootType": "damageLightning",
     "rotateSpeed": 20,
     "powerUse": 1.5,
     "targetAir": true,
