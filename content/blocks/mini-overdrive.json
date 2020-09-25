@@ -4,9 +4,18 @@
 	"type": "OverdriveProjector",
 	"health": 75,
 	"size": 1,
-	"range": 30,
-    "consumes": { "power": 1 },
+	"range": 28,
+    "consumes": { 
+        "power": 1,
+        "items": {
+			"items": [ {"item": "silicon", "amount": 1} ],
+			"booster": true,
+			"optional": true
+        } 
+    },
     "speedBoost": 1.3,
+    "speedBoostPhase": 1.6,
+    "phaseRangeBoost": 20,
 	"requirements": [
 		{ "item": "copper", "amount": 50 },
 		{ "item": "lead", "amount": 50 },
