@@ -13,7 +13,7 @@
     "targetAir": true,
     "targetGround": false,
     "range": 90,
-    "shootEffect": "Fx.lightningShoot",
+    "shootEffect": "lightningShoot",
     "heatColor": "Color.red",
     "recoil": 1,
     "shootSound": "Sounds.spark",
