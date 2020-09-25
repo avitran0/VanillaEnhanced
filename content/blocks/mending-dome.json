@@ -11,14 +11,12 @@
 		"items": {
 			"items": [
 				{ "item": "phase-fabric",
-					"amount": 1,
-					"optional": true,
-					"booster": true },
+					"amount": 1 },
 				{ "item": "silicon",
-					"amount": 1,
-					"optional": true,
-					"booster": true }
-			]
+					"amount": 1 }
+			],
+			"optional": true,
+			"booster": true
 		}
 	},
 	"healPercent": 20,
