@@ -13,10 +13,10 @@
     "targetAir": true,
     "targetGround": false,
     "range": 90,
-    "shootEffect": "lightningShoot",
-    "heatColor": "red",
+    "shootEffect": "Fx.lightningShoot",
+    "heatColor": "Color.red",
     "recoil": 1,
-    "shootSound": "spark",
+    "shootSound": "Sounds.spark",
     "research": "arc",
     "requirements": [
         {"item": "copper", "amount": 35},
