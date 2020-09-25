@@ -1,6 +1,0 @@
-{
-    "type": "LightningBulletType",
-    "damage": 20,
-    "lightningLength": 25,
-    "collidesAir": true
-}
