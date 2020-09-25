@@ -14,7 +14,7 @@
     "targetGround": false,
     "range": 90,
     "shootEffect": "lightningShoot",
-    "heatColor": "Color.red",
+    "heatColor": "red",
     "recoil": 1,
     "shootSound": "spark",
     "research": "arc",
