@@ -16,5 +16,5 @@
         { "item": "silicon", "amount": 75 }
 	],
 	"category": "defense",
-	"research": "mendProjector"
+	"research": "mend-projector"
 }
