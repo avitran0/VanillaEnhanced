@@ -1,6 +1,6 @@
 {
 	"name": "Mending Dome",
-	"description": "The best mender you could build.",
+	"description": "The absolute best Mender. If the absolute power of this beast doesn't make you happy, nothing will.",
 	"type": "MendProjector",
 	"health": 1200,
 	"size": 3,
@@ -21,7 +21,7 @@
 	},
 	"healPercent": 20,
 	"phaseRangeBoost": 80,
-	"phaseBoost": 15,
+	"phaseBoost": 25,
 	"requirements": [
 		{ "item": "lead", "amount": 150 },
 		{ "item": "titanium", "amount": 100 },
