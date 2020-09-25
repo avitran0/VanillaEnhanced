@@ -12,11 +12,6 @@ This mod adds a few things to enhance the Vanilla experience.
 - Titanium Drill (can mine every ore, but is slow)
 - Upgraded Force & Overdrive Projectors
 - Large Mass Driver
-- An Arc turret, but for air defense
-
-**More Features (planned):**
-
-- More transport features (e.g. conveyors)
-- Different weapons, mechs
+- An Arc turret, but for air defense (currently busted, idk why)
 
 > **Made by HolyHades and v1nce.**
