@@ -7,7 +7,7 @@
     "size": 1,
     "reloadTime": 35,
     "shootCone": 40,
-    "shootType": "arc.shootType",
+    "shootType": "missileExplosive",
     "rotateSpeed": 8,
     "powerUse": 3,
     "targetAir": true,
