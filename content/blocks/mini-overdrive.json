@@ -14,7 +14,7 @@
         } 
     },
     "speedBoost": 1.3,
-    "speedBoostPhase": 0.3,
+    "speedBoostPhase": 0.1,
     "phaseRangeBoost": 20,
 	"requirements": [
 		{ "item": "copper", "amount": 50 },
