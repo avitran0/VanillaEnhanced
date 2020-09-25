@@ -20,8 +20,8 @@
 		}
 	},
 	"healPercent": 20,
-	"phaseRangeBoost": 40,
-	"phaseBoost": 5,
+	"phaseRangeBoost": 80,
+	"phaseBoost": 15,
 	"requirements": [
 		{ "item": "lead", "amount": 150 },
 		{ "item": "titanium", "amount": 100 },
