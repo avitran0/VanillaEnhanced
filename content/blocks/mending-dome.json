@@ -1,0 +1,20 @@
+{
+	"name": "Mending Dome",
+	"description": "The best mender you could build.",
+	"type": "MendProjector",
+	"health": 1200,
+	"size": 3,
+	"range": 120,
+	"reload": 175,
+	"consumes": {"power": 2.5},
+	"healPercent": 20,
+	"phaseRangeBoost": 40,
+	"phaseBoost": 5,
+	"requirements": [
+		{ "item": "lead", "amount": 150 },
+		{ "item": "titanium", "amount": 100 },
+        { "item": "silicon", "amount": 75 }
+	],
+	"category": "defense",
+	"research": "mendProjector"
+}
