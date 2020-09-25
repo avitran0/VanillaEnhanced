@@ -6,7 +6,19 @@
 	"size": 3,
 	"range": 120,
 	"reload": 175,
-	"consumes": {"power": 2.5},
+	"consumes": {
+		"power": 2.5,
+		"items": [ 
+			{ "item": "phase-fabric",
+				"amount": 1,
+				"optional": true,
+				"booster": true },
+			{ "item": "silicon",
+				"amount": 1,
+				"optional": true,
+				"booster": true }
+		]
+	},
 	"healPercent": 20,
 	"phaseRangeBoost": 40,
 	"phaseBoost": 5,
