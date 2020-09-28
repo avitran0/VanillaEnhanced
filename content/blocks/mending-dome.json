@@ -23,9 +23,9 @@
 	"phaseRangeBoost": 80,
 	"phaseBoost": 25,
 	"requirements": [
-		{ "item": "lead", "amount": 150 },
-		{ "item": "titanium", "amount": 100 },
-        { "item": "silicon", "amount": 75 }
+		{ "item": "lead", "amount": 250 },
+		{ "item": "titanium", "amount": 150 },
+        { "item": "silicon", "amount": 200 }
 	],
 	"category": "effect",
 	"research": "mend-projector"
