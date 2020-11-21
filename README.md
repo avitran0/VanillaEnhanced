@@ -3,7 +3,9 @@
 This mod adds a few things to enhance the Vanilla experience.  
 *Still in development*
 
-## V6.0 is done
+## V6.0 only, there is no backwards compatibility for older versions
+
+This is not because i'm lazy, but because of the major changes of V6.
 
 **Content:**
 
