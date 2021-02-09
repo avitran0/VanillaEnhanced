@@ -9,7 +9,7 @@
     "shootCone": 40,
     "rotateSpeed": 8,
     "powerUse": 3.3,
-	"shootType": "damageLightning",
+	"shootType": "arc",
     "targetAir": true,
     "targetGround": false,
     "range": 90,
