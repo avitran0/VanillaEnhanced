@@ -2,7 +2,7 @@
 	"type": "battery",
 	"name": "Mega Battery",
 	"size": 4,
-	"health": 12000,
+	"health": 1200,
 	"category": "power",
 	"requirements": [
 		{"item": "lead", "amount": 80},
