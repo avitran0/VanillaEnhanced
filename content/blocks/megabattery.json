@@ -1,6 +1,7 @@
 {
 	"type": "battery",
 	"name": "Mega Battery",
+	"description":a-large-scale-battery-with-massive-power-capacity
 	"size": 4,
 	"health": 1200,
 	"category": "power",
