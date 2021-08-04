@@ -1,6 +1,7 @@
 {
     "type": "ForceProjector",
     "name": "Force Dome",
+    "description": "A larger and improved Force Projector.",
     "size": 4,
     "health": 500,
     "radius": 150,
