@@ -5,10 +5,29 @@
 	"health": 5400,
 	"size": 5,
 	"reload": 45,
+	"range": 150,
 	"ammoUseEffect": "none",
 	"shootSound": "shotgun",
 	"restitution": 0.1,
 	"shootCone": 35,
+	"ammo": {
+		"titanium": {
+			"damage": 200,
+			"ammoMultiplier": 4,
+			"width": 20,
+			"reloadMultiplier": 1.3,
+			"length": "brange"
+		},
+		"thorium": {
+			"damage": 240,
+			"ammoMultiplier": 5,
+			"width": 20,
+			"toColor": "thoriumPink",
+			"length": "brange",
+			"shootEffect": "thoriumShoot",
+			"smokeEffect": "thoriumShoot"
+		}
+	},
 	"requirements": [
 		{ "item": "copper", "amount": 690 },
 		{ "item": "graphite", "amount": 600 },
