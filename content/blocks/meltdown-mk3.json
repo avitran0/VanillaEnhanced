@@ -19,6 +19,7 @@
 	"shootSound": "laserbig",
 	"rotatespeed": 1.1,
 	"activeSound": "beam",
+	"baseRegion": "block-8",
 	"requirements": [
 		{ "item": "copper", "amount": 1300 },
 		{ "item": "lead", "amount": 980 },
