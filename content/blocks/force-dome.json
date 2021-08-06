@@ -19,7 +19,7 @@
         {"item": "silicon", "amount": 175}
     ],
     "consumes": {
-		"power": 3,
+		"power": 8,
 		"items": {
 			"items": [ {"item": "phase-fabric", "amount": 1} ],
 			"booster": true,
