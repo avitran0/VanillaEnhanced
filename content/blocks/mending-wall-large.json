@@ -2,7 +2,7 @@
 	"name": "Large Mending Wall",
 	"description": "A Wall that acts like a Mend Projector, needs Power. Spans multiple tiles.",
 	"type": "MendProjector",
-	"health": 3000,
+	"health": 3680,
 	"size": 2,
 	"range": 15,
 	"reload": 150,
