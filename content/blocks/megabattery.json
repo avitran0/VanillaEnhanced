@@ -3,13 +3,13 @@
 	"name": "Mega Battery",
 	"description": "A massive battery, storing large amounts of energy.",
 	"size": 4,
-	"health": 1200,
+	"health": 800,
 	"category": "power",
 	"requirements": [
-		{"item": "lead", "amount": 80},
-		{"item": "titanium", "amount": 50},
-		{"item": "silicon", "amount": 50},
-		{"item": "surge-alloy", "amount": 50}
+		{"item": "lead", "amount": 160},
+		{"item": "titanium", "amount": 120},
+		{"item": "silicon", "amount": 120},
+		{"item": "surge-alloy", "amount": 80}
 	],
 	"consumes": { "powerBuffered": 500000 },
 	"research": "battery-large"

@@ -3,20 +3,20 @@
 	"description": "A cheap drill for everything.",
 	"type": "Drill",
 	"size": 2,
-	"tier": 5,
+	"tier": 4,
 	"drillTime": 400,
 	"consumes": {
 		"liquid": {
 			"liquid": "water", 
-			"amount": 0.05,
+			"amount": 0.06,
 			"optional": true,
 			"booster": true
 		}
 	},
 	"requirements": [
-		{ "item": "titanium", "amount": 20 },
-		{ "item": "silicon", "amount": 10 },
-		{ "item": "graphite", "amount": 10 }
+		{ "item": "titanium", "amount": 24 },
+		{ "item": "silicon", "amount": 12 },
+		{ "item": "graphite", "amount": 12 }
 	],
 	"category": "production",
 	"research": "laser-drill"

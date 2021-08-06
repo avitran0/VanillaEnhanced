@@ -10,8 +10,8 @@
         {"item": "silicon", "amount": 125}
     ],
     "size": 4,
-    "itemCapacity": 250,
-    "reloadTime": 120,
+    "itemCapacity": 240,
+    "reloadTime": 80,
     "range": 650,
     "consumes": {"power": 2.5},
     "category": "distribution",

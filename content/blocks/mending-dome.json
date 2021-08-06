@@ -5,7 +5,8 @@
 	"health": 1200,
 	"size": 3,
 	"range": 120,
-	"reload": 175,
+	"reload": 150,
+	"useTime": 300,
 	"consumes": {
 		"power": 2.5,
 		"items": {
@@ -21,7 +22,7 @@
 	},
 	"healPercent": 20,
 	"phaseRangeBoost": 80,
-	"phaseBoost": 25,
+	"phaseBoost": 20,
 	"requirements": [
 		{ "item": "lead", "amount": 250 },
 		{ "item": "titanium", "amount": 150 },
