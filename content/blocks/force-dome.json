@@ -9,9 +9,9 @@
     "phaseUseTime": 250,
 	"phaseShieldBoost": 600,
 	"shieldHealth": 1200,
-    "cooldownNormal": 1.2,
-    "cooldownLiquid": 1,
-    "cooldownBrokenBase": 0.25,
+    "cooldownNormal": 1.5,
+    "cooldownLiquid": 1.2,
+    "cooldownBrokenBase": 0.35,
     "category": "effect",
     "requirements": [
         {"item": "lead", "amount": 150},
