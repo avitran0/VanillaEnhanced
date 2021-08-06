@@ -15,5 +15,7 @@ This is not because i'm lazy, but because of the major changes of V6.
 - Titanium Drill (can mine every ore, but is slow)
 - Upgraded Force & Overdrive Projectors
 - Large Mass Driver
+- Fuse MK2/MK3
+- Meltdown MK2/MK3
 
 > **Made by HolyHades and v1nce.**
