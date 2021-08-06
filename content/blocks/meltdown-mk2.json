@@ -20,7 +20,16 @@
 	"heatColor": "e04300",
 	"rotatespeed": 1.5,
 	"loopSound": "beam",
-	"shootType": "meltdownLaser",
+	"shootType": {
+		"type": "ContinuousLaserBulletType",
+		"damage": 500,
+		"length": 300,
+		"lifetime": 32,
+		"width": 12,
+		"hitEffect": "hitMeltdown",
+		"hitColor": "meltdownHit",
+		"drawSize": 500
+	},
 	"requirements": [
 		{ "item": "copper", "amount": 890 },
 		{ "item": "lead", "amount": 690 },
