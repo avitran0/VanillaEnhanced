@@ -4,12 +4,14 @@
 	"type": "ItemTurret",
 	"health": 5400,
 	"size": 5,
-	"reload": 45,
+	"reloadTime": 35,
+	"shootShake": 4,
 	"range": 150,
 	"ammoUseEffect": "none",
 	"shootSound": "shotgun",
 	"restitution": 0.1,
 	"shootCone": 35,
+	"spread": 10,
 	"ammo": {
 		"titanium": {
 			"type": "ShrapnelBulletType",
