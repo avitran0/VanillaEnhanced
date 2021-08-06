@@ -20,7 +20,7 @@
 	"heatColor": "e04300",
 	"rotatespeed": 1.5,
 	"loopSound": "beam",
-	"shootType": "ContinuousLaserBulletType",
+	"shootType": "meltdownLaser",
 	"requirements": [
 		{ "item": "copper", "amount": 890 },
 		{ "item": "lead", "amount": 690 },
