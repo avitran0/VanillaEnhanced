@@ -12,12 +12,14 @@
 	"shootCone": 35,
 	"ammo": {
 		"titanium": {
+			"type": "ShrapnelBulletType",
 			"damage": 200,
 			"ammoMultiplier": 4,
 			"width": 20,
 			"reloadMultiplier": 1.3
 		},
 		"thorium": {
+			"type": "ShrapnelBulletType",
 			"damage": 240,
 			"ammoMultiplier": 5,
 			"width": 20,
