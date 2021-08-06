@@ -27,7 +27,7 @@
 		{ "item": "surge-alloy", "amount": 960 },
 		{ "item": "silicon", "amount": 900 },
 		{ "item": "thorium", "amount": 770 },
-		{ "item": "advance-alloy", "amount": 270 }
+		{ "item": "phase-fabric", "amount": 270 }
 	],
 	"category": "turret",
 	"research": "meltdown-mk2"
