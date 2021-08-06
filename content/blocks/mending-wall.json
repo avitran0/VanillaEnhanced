@@ -2,7 +2,7 @@
 	"name": "Mending Wall",
 	"description": "A Wall that acts like a Mender, needs Power",
 	"type": "MendProjector",
-	"health": 750,
+	"health": 920,
 	"size": 1,
 	"range": 10,
 	"consumes": {"power": 0.3},
