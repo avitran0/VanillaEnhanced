@@ -1,6 +1,7 @@
 {
 	"name": "Fuse MK3",
 	"description": "An even better fuse turret.",
+	"type": "ItemTurret",
 	"health": 5400,
 	"size": 5,
 	"reload": 45,

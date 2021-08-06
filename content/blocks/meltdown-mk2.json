@@ -13,6 +13,7 @@
 	"recoil": 8,
 	"name": "Meltdown MK2",
 	"description": "Meltdown, but even better.",
+	"type": "LaserTurret",
 	"hasPower": true,
 	"hasLiquids": true,
 	"shootSound": "laserbig",
