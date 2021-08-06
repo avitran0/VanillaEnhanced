@@ -12,7 +12,7 @@
 	"restitution": 0.1,
 	"shootCone": 35,
 	"spread": 10,
-	"ammo": {
+	"ammoTypes": {
 		"titanium": {
 			"type": "ShrapnelBulletType",
 			"damage": 200,
