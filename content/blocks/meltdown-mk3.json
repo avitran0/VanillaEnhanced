@@ -1,7 +1,7 @@
 {
 	"size": 8,
 	"health": 9750,
-	"range": 300,
+	"range": 400,
 	"reload": 180,
 	"coolantMultiplier": 0.6,
 	"shootCone": 40,
@@ -23,7 +23,7 @@
 	"shootType": {
 		"type": "ContinuousLaserBulletType",
 		"damage": 500,
-		"length": 300,
+		"length": 400,
 		"lifetime": 32,
 		"width": 12,
 		"hitEffect": "hitMeltdown",
