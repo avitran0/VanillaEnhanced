@@ -11,7 +11,7 @@
 	"firingMoveFract": 0.1,
 	"shootEffect": "shootBigSmoke2",
 	"recoil": 8,
-	"localizedName": "Meltdown MK3",
+	"name": "Meltdown MK3",
 	"description": "The best Meltdown, it destroys everything in it's path.",
 	"type": "LaserTurret",
 	"cooldown": 0.012,
