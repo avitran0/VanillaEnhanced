@@ -13,9 +13,7 @@ This is not because i'm lazy, but because of the major changes of V6.
 - Thorium and Surge Alloy Conveyors, Titanium Bridge Conveyor
 - A larger Battery
 - Titanium Drill (can mine every ore, but is slow)
-- Upgraded Force & Overdrive Projectors
-- Large Mass Driver
+- Upgraded Force & Mini Overdrive Projectors
+- Solar Array
 - Fuse MK2/MK3
 - Meltdown MK2/MK3
-
-> **Made by HolyHades and v1nce.**
