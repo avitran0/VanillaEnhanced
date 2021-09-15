@@ -1,8 +1,8 @@
 {
 	"type": "battery",
-	"name": "Mega Battery",
+	"name": "Giant Battery",
 	"description": "A massive battery, storing large amounts of energy.",
-	"size": 4,
+	"size": 6,
 	"health": 800,
 	"category": "power",
 	"emptyLightColor": "919fe7",
