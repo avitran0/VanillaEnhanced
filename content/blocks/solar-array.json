@@ -1,5 +1,7 @@
 {
 	"type": "SolarGenerator",
+	"name": "Solar Array",
+	"description": "The best solar panel, produces a lot of power.",
 	"health": 360,
 	"size": 4,
 	"powerProduction": 8,
