@@ -5,6 +5,8 @@
 This mod adds a few things to enhance the Vanilla experience.  
 If you have any suggestions for new things, feel free to send me a message or open an issue.
 
+## I need new sprites for this mod, I am unable to make my own, if you want to make any, please contact me
+
 ## V6.0 only, there is no backwards compatibility for older versions
 
 This is not because i'm lazy, but because of the major changes of V6.
